@@ -2,11 +2,7 @@
   👋 <strong> Krishna here, I am Full-Stack Django developer with 2+ years of experience in designing and developing web applications. Proficient in both front-end and back-end technologies such as Python, Django, DjangoRestFramework, Redis, Celery with React-js and Redux. </strong>
 
 
-<img width="700px" align="right" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="krishnaayaadav" />
-
-
- 
-![](https://quotes-github-readme.vercel.app/api?type=&theme=merko)
+<img width="400px" align="right" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="krishnaayaadav" />
  <marks> Email Address: krishnapb9721@gmail.com </marks>
 
 
