@@ -3,7 +3,7 @@
 
 
 <img width="400px" align="right" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="krishnaayaadav" />
- <marks> Email Address: krishnapb9721@gmail.com </marks>
+ <strong> Email Address: krishnayaadav7431@gmail.com </strong>
 
 
 
